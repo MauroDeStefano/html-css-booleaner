@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 header .banner{
@@ -22,11 +22,12 @@ header .banner{
 }
 
 .titolone{
+  font-size: 51px;
   padding-bottom: 0;
   margin-bottom: 0;
 }
 
-.autore, span{
+.autore{
   margin-top: 0;
   font-size: 28px;
   line-height: 0.7;
@@ -51,4 +52,29 @@ span.nome-sito{
   margin-top: 0;
   padding-top: 0;
   font-size: 20px;
+}
+.evidenziato{
+  background-color: rgb(255, 255, 0);
+}
+
+thead{
+  background-color: #20A9E5;
+  border-collapse:unset;
+}
+
+#ultimo{
+  width: 700px;
+}
+
+.testatabella th{
+  width: 300px;
+  border-spacing: 0;
+  padding:0;
+  border: 0px;
+  text-align: left;
+  
+}
+
+.azzurro{
+  background-color: #B1E5F2;
 }
