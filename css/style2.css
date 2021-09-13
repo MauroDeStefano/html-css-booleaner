@@ -1,9 +1,9 @@
-body{
+body {
   margin: 0;
   font-size: 20px;
 }
 
-header .banner{
+header .banner {
   margin: 0 10% 0 10%;
   width: 80%;
   height: 180px;
@@ -14,66 +14,66 @@ header .banner{
   background-position:130px 0;
 }
 
-main, footer{
+main, footer {
   margin: 0 20% 0 20%;
 }
 
-.bannerimg{
+.bannerimg {
   width: 350px;
   margin-top: 75px;
   margin-left: 12%;
 }
 
-.titolone{
+.titolone {
   font-size: 51px;
   padding-bottom: 0;
   margin-bottom: 0;
 }
 
-.autore{
+.autore {
   margin-top: 0;
   font-size: 28px;
   line-height: 0.7;
   color: #7E7E7E;
 }
 
-span.nome-sito{ 
+span.nome-sito { 
   color: #24ABE6;
 }
 
-.data{
+.data {
   font-size: 16px;
 }
 
-.tim img{
+.tim img {
   width: 49%;
   height: 700px;
   object-fit: cover;
 }
 
-.tim .indice{
+.tim .indice {
   margin-top: 0;
   padding-top: 0;
   font-size: 20px;
 }
-.evidenziato{
+.evidenziato {
   background-color: rgb(255, 255, 0);
 }
 
-table{
+table {
   border-collapse: collapse;
 }
 
-thead{
+thead {
   background-color: #20A9E5;
   border-collapse:unset;
 }
 
-#ultimo{
+#ultimo {
   width: 700px;
 }
 
-.testatabella th{
+.testatabella th {
   width: 300px;
   border-spacing: 0;
   padding:0;
@@ -82,15 +82,15 @@ thead{
   
 }
 
-.azzurro{
+.azzurro {
   background-color: #B1E5F2;
 }
 
-.interessi{
+.interessi {
   color: #7E7E7E;
 }
 
-.immpie{
+.immpie {
   width: 200px;
   height: 200px;
   margin: 15px 0px 15px 0;
@@ -99,10 +99,10 @@ thead{
 
 }
 
-.primo{
+.primo {
   background-image: url(../img/monitor.jpg);
 }
 
-.secondo{
+.secondo {
   background-image: url(../img/graph.jpg);
 }
