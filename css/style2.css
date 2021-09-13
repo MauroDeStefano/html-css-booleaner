@@ -1,18 +1,21 @@
 body{
   margin: 0;
-  padding-left: 15px;
-  padding-right: 15px;
   font-size: 20px;
 }
 
 header .banner{
-  width: 100%;
+  margin: 0 10% 0 10%;
+  width: 80%;
   height: 180px;
   background-color: #4EA0FF;
   background-image: url("../img/pattern.png");
   background-repeat:repeat;
   background-size:auto;
   background-position:130px 0;
+}
+
+main, footer{
+  margin: 0 20% 0 20%;
 }
 
 .bannerimg{
