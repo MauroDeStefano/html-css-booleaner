@@ -78,3 +78,24 @@ thead{
 .azzurro{
   background-color: #B1E5F2;
 }
+
+.interessi{
+  color: #7E7E7E;
+}
+
+.immpie{
+  width: 200px;
+  height: 200px;
+  margin: 15px 0px 15px 0;
+  padding: 5px 15px 5px 5px;
+  color: white;
+
+}
+
+.primo{
+  background-image: url(../img/monitor.jpg);
+}
+
+.secondo{
+  background-image: url(../img/graph.jpg);
+}
